@@ -2,3 +2,4 @@
 test*
 !test_functions*
 data*
+pretrained_models
